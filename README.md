@@ -7,5 +7,6 @@ pula contra no ap 10,50+,  org morro 😼🤘
 - 📫 How to reach me: org morro
 
   ##Estou aprendendo
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
 
