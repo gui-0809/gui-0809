@@ -1,7 +1,9 @@
 ## Olá, me chamo guilherme
 
 🌱 I’m currently learning C#
+
 👯 I’m looking to collaborate on C#
+
 💬 Ask me about Python
 
 Aprendendo
