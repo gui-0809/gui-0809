@@ -6,7 +6,7 @@ pula contra no ap 10,50+,  org morro 😼🤘
 - 💬 Ask me about Python
 - 📫 How to reach me: org morro
 
-##Estou aprendendo
+##Aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" hight="30" /> 
 
