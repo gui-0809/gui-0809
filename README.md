@@ -1,16 +1,39 @@
-## Olá, me chamo guilherme
+# 👋 Olá! Eu sou o Guilherme
 
-🌱 I’m currently learning C#
+💻 Sou estudante e gosto de aprender sobre **programação, eletrônica e tecnologia**.
+🔧 Atualmente estou aprendendo e criando projetos com **Arduino, lógica de programação e algoritmos**.
+📚 Gosto de resolver problemas do cotidiano usando **fluxogramas e pensamento lógico**.
 
-👯 I’m looking to collaborate on C#
+## 🚀 O que estou estudando
 
-💬 Ask me about Python
+* Programação e lógica
+* Arduino e eletrônica
+* Desenvolvimento de algoritmos
+* Projetos no Tinkercad
 
+## 🛠️ Tecnologias e ferramentas
 
-## Aprendendo
+* Arduino
+* C / C++ básico
+* Tinkercad
+* Git e GitHub
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" hight="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" hight="40" />
-          
+## 📂 Projetos
+
+Aqui você vai encontrar alguns dos meus projetos, como:
+
+* Experimentos com **Arduino**
+* Simulações no **Tinkercad**
+* Exercícios de **lógica de programação**
+
+## 📈 Objetivo
+
+Aprender cada vez mais sobre programação e criar projetos úteis e criativos.
+
+---
+
+⭐ Se quiser, dê uma olhada nos meus repositórios!
+
           
 
 
