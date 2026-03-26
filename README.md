@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Guilherme
+# Olá! Eu sou o Guilherme
 
 💻 Sou estudante e gosto de aprender sobre **programação, eletrônica e tecnologia**.
 🔧 Atualmente estou aprendendo e criando projetos com **Arduino, lógica de programação e algoritmos**.
